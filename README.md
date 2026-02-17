@@ -1,9 +1,9 @@
 # Electrical Engineering Master's Student at UPenn
 
-#### Programming Languages & Frameworks: AWS, JavaScript, React Native, Typescript, C++, Python 
+Programming Languages & Frameworks: Figma, AWS, JavaScript, React Native, Typescript, C++, Python
 
 ## Education
-- M.S., Electrical Engineering | University of Pennsylvania (_May 2026_)							        		
+- M.S., Electrical Engineering | University of Pennsylvania (_May 2026_)
 - B.S., Bioengineering | University of Pennsylvania (_May 2025_)
 
 ## Work Experience
