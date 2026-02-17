@@ -14,7 +14,11 @@ Programming Languages & Frameworks: Figma, AWS, JavaScript, React Native, Typesc
 - Led development on React Native and AWS backend. Optimized UI/UX design
 - Pitched and received $16,000 in grants from the Wharton School of Business
 
-![Atelic Screenshot](/assets/Atelic_Screenshot_App.png)
+[![Atelic Screenshot](/assets/Atelic_Screenshot_App.png)](https://drive.google.com/file/d/1rMd6Nu6NFQNgw9s5bNyy2o475DyK9ci5/view)
+
+**Fellow @ VIP-X Accelerator, Venture Lab** (_September 2025–December 2025_) · Philadelphia, PA
+- One of 7 finalists from 100+ applicants for VIP-X, a 3-month program designed to launch high-growth ventures. Awarded a $10,000 grant to accelerate the launch of Atelic, an iOS travel planning app
+- Since 2016, VIP-X ventures have collectively raised $968M+ in funding, with 80% still in business
 
 **Fellow @ Widjaja Entrepreneurship Program** (_December 2024–December 2025_) · Philadelphia, PA
 - One of 12 students selected for a 12-month program to develop entrepreneurship skills in creating, scaling, and leading high-growth technology ventures
