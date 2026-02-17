@@ -46,6 +46,14 @@ Atelic is a travel planning app that turns fragmented trip ideas into optimized,
 
 [![Atelic Demo Thumbnail](/assets/Atelic_Demo_Thumbnail.png)](https://drive.google.com/file/d/1rMd6Nu6NFQNgw9s5bNyy2o475DyK9ci5/view)
 
+### SynthToSoul: Human vs. AI Music Detector
+
+[Video Demo](https://www.youtube.com/watch?v=2JOW_FyJLlY) · [GitHub](https://github.com/mtp0326/SynthToSoul?tab=readme-ov-file)
+
+Full-stack audio analysis application that distinguishes human-made from AI-generated music using a custom CNN trained on Mel spectrograms (GTZAN and SONICS datasets). For tracks classified as AI-generated, the system uses TorchOpenL3 embeddings and FAISS to find the top-k most similar human-made songs. Built a Python/Flask backend with PyTorch for binary classification and a React (Vite) + TypeScript frontend with a retro-vinyl themed UI, drag-and-drop uploads, and audio visualizations. Privacy-first: human-made uploads are deleted after analysis; only AI tracks are retained for similarity matching.
+
+[![Synth to Soul](/assets/Synth%20to%20Soul.png)](https://www.youtube.com/watch?v=2JOW_FyJLlY)
+
 ### Microfluidic Device for Blood Plasma Separation and Fluorescence Detection of HIV-1 P24 Biomarkers 
 [Publication](https://doi.org/10.1016/j.sna.2020.112482)
 
